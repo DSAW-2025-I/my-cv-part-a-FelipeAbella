@@ -18,7 +18,7 @@ header {
     margin-bottom: 20px;
 }
 
-h2, h3, h4, h5, h6 {
+h2{
     font-family: 'Montserrat', sans-serif;
     font-weight: 800;
     color: #4CAF50;
@@ -34,7 +34,7 @@ section {
     box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
 }
 
-section h2, h3, h4, h5, h6 {
+section h2{
     font-size: 1.5em;
     margin-bottom: 10px;
     color: #4CAF50;
